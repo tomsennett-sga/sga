@@ -38,6 +38,9 @@ module.exports = {
               Page: {
                 exclude: true,
               },
+              Entertainer: {
+                exclude: true
+              }
             },
       },
     },
