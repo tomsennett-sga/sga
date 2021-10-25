@@ -34,7 +34,7 @@ module.exports = {
               requestConcurrency: 5, // currently set to 15
               previewRequestConcurrency: 2, // currently set to 5
             },
-          includedRoutes: [
+          includeRoutes: [
                   "**/entertainers",
                   "**/posts",
                 ]
